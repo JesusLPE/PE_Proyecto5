@@ -18,4 +18,4 @@ Lo que aún está pendiente ("próximamente"):
 - Búsqueda real de rutas, cooperativas y horarios.
 - Historial de compras y registro de ventas.
 - Persistencia de datos (usuarios y boletos vendidos se pierden al cerrar la app).
-Escrito por Erazo
+- Escrito por Erazo
