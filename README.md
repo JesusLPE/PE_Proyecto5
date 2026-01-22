@@ -16,6 +16,5 @@ Funcionalidades principales ya implementadas:
 Lo que aún está pendiente ("próximamente"):
 
 - Búsqueda real de rutas, cooperativas y horarios.(Adonis)
-- Historial de compras y registro de ventas.
+- Historial de compras y registro de ventas.(erazo)
 - Persistencia de datos (usuarios y boletos vendidos se pierden al cerrar la app).
-
