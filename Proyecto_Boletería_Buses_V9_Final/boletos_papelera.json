@@ -1,0 +1,101 @@
+[
+  {
+    "id": "b30aef67-1d39-472a-a9f2-11f585ad7c49",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_004",
+    "ruta_id": "ruta_001",
+    "horario_id": "h002",
+    "fecha_viaje": "2026-01-23",
+    "asiento": "2",
+    "precio": 15.5,
+    "fecha_compra": "2026-01-22 19:01:42"
+  },
+  {
+    "id": "ce663c11-35a5-4149-9793-455fcbc10296",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_004",
+    "ruta_id": "ruta_001",
+    "horario_id": "h002",
+    "fecha_viaje": "2026-01-23",
+    "asiento": "2",
+    "precio": 15.5,
+    "fecha_compra": "2026-01-22 19:01:31"
+  },
+  {
+    "id": "faee63a3-69dd-4430-9a8d-4c91768c4f6d",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_004",
+    "ruta_id": "ruta_002",
+    "horario_id": "h005",
+    "fecha_viaje": "2026-01-24",
+    "asiento": "10",
+    "precio": 12.0,
+    "fecha_compra": "2026-01-23 00:10:36"
+  },
+  {
+    "id": "7fd7d203-caf7-4197-84aa-d66f09080834",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_014",
+    "ruta_id": "ruta_071",
+    "horario_id": "h284",
+    "fecha_viaje": "2026-01-24",
+    "asiento": "12",
+    "precio": 6.5,
+    "fecha_compra": "2026-01-23 00:10:11"
+  },
+  {
+    "id": "0e6aaa4c-676d-456d-9341-c1e06f724866",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_014",
+    "ruta_id": "ruta_071",
+    "horario_id": "h284",
+    "fecha_viaje": "2026-01-24",
+    "asiento": "1",
+    "precio": 6.5,
+    "fecha_compra": "2026-01-23 00:10:07"
+  },
+  {
+    "id": "7a23678f-c4a0-4334-ae69-455d43f0078a",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_003",
+    "ruta_id": "ruta_030",
+    "horario_id": "h117",
+    "fecha_viaje": "2026-01-24",
+    "asiento": "3",
+    "precio": 5.0,
+    "fecha_compra": "2026-01-23 01:53:37"
+  },
+  {
+    "id": "a505043b-eb83-4d60-b602-789aad5fd8cf",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_004",
+    "ruta_id": "ruta_002",
+    "horario_id": "h008",
+    "fecha_viaje": "2026-01-24",
+    "asiento": "11",
+    "precio": 12.0,
+    "fecha_compra": "2026-01-23 00:10:47"
+  },
+  {
+    "id": "65746801-7479-4ccb-9968-dd3b3a485edd",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_004",
+    "ruta_id": "ruta_002",
+    "horario_id": "h005",
+    "fecha_viaje": "2026-01-24",
+    "asiento": "15",
+    "precio": 12.0,
+    "fecha_compra": "2026-01-23 00:10:40"
+  },
+  {
+    "id": "ef9965f3-065f-4875-94f0-1aa2aa3da97e",
+    "usuario": "DDD",
+    "cooperativa_id": "coop_014",
+    "ruta_id": "ruta_071",
+    "horario_id": "h281",
+    "fecha_viaje": "2026-01-24",
+    "asiento": "6",
+    "precio": 6.5,
+    "fecha_compra": "2026-01-23 00:09:48"
+  }
+]

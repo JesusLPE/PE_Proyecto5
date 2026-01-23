@@ -1,0 +1,902 @@
+{
+  "ruta_001": {
+    "id": "ruta_001",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Cuenca",
+    "precio": 15.50,
+    "fecha_creacion": "2024-08-07 10:00:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_002": {
+    "id": "ruta_002",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Guayaquil",
+    "precio": 12.00,
+    "fecha_creacion": "2024-08-07 10:01:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_003": {
+    "id": "ruta_003",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Machala",
+    "precio": 18.75,
+    "fecha_creacion": "2024-08-07 10:02:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_004": {
+    "id": "ruta_004",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Riobamba",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 10:03:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_005": {
+    "id": "ruta_005",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Ambato",
+    "precio": 4.50,
+    "fecha_creacion": "2024-08-07 10:04:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_006": {
+    "id": "ruta_006",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Manta",
+    "precio": 10.50,
+    "fecha_creacion": "2024-08-07 10:05:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_007": {
+    "id": "ruta_007",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Portoviejo",
+    "precio": 9.75,
+    "fecha_creacion": "2024-08-07 10:06:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_008": {
+    "id": "ruta_008",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Ibarra",
+    "precio": 3.00,
+    "fecha_creacion": "2024-08-07 10:07:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_009": {
+    "id": "ruta_009",
+    "cooperativa_id": "coop_004",
+    "origen": "Quito",
+    "destino": "Santo Domingo",
+    "precio": 4.00,
+    "fecha_creacion": "2024-08-07 10:08:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_010": {
+    "id": "ruta_010",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Quito",
+    "precio": 4.50,
+    "fecha_creacion": "2024-08-07 10:09:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_011": {
+    "id": "ruta_011",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Guayaquil",
+    "precio": 7.50,
+    "fecha_creacion": "2024-08-07 10:10:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_012": {
+    "id": "ruta_012",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Cuenca",
+    "precio": 10.00,
+    "fecha_creacion": "2024-08-07 10:11:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_013": {
+    "id": "ruta_013",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Riobamba",
+    "precio": 1.50,
+    "fecha_creacion": "2024-08-07 10:12:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_014": {
+    "id": "ruta_014",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Puyo",
+    "precio": 3.00,
+    "fecha_creacion": "2024-08-07 10:13:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_015": {
+    "id": "ruta_015",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Tena",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 10:14:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_016": {
+    "id": "ruta_016",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Latacunga",
+    "precio": 1.00,
+    "fecha_creacion": "2024-08-07 10:15:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_017": {
+    "id": "ruta_017",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Ibarra",
+    "precio": 6.50,
+    "fecha_creacion": "2024-08-07 10:16:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_018": {
+    "id": "ruta_018",
+    "cooperativa_id": "coop_005",
+    "origen": "Ambato",
+    "destino": "Santo Domingo",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 10:17:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_019": {
+    "id": "ruta_019",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Quito",
+    "precio": 12.00,
+    "fecha_creacion": "2024-08-07 10:18:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_020": {
+    "id": "ruta_020",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Cuenca",
+    "precio": 8.00,
+    "fecha_creacion": "2024-08-07 10:19:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_021": {
+    "id": "ruta_021",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Machala",
+    "precio": 5.50,
+    "fecha_creacion": "2024-08-07 10:20:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_022": {
+    "id": "ruta_022",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Manta",
+    "precio": 6.00,
+    "fecha_creacion": "2024-08-07 10:21:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_023": {
+    "id": "ruta_023",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Portoviejo",
+    "precio": 5.50,
+    "fecha_creacion": "2024-08-07 10:22:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_024": {
+    "id": "ruta_024",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Riobamba",
+    "precio": 7.00,
+    "fecha_creacion": "2024-08-07 10:23:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_025": {
+    "id": "ruta_025",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Ambato",
+    "precio": 7.50,
+    "fecha_creacion": "2024-08-07 10:24:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_026": {
+    "id": "ruta_026",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Loja",
+    "precio": 12.00,
+    "fecha_creacion": "2024-08-07 10:25:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_027": {
+    "id": "ruta_027",
+    "cooperativa_id": "coop_002",
+    "origen": "Guayaquil",
+    "destino": "Santo Domingo",
+    "precio": 7.00,
+    "fecha_creacion": "2024-08-07 10:26:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_028": {
+    "id": "ruta_028",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Quito",
+    "precio": 20.00,
+    "fecha_creacion": "2024-08-07 10:27:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_029": {
+    "id": "ruta_029",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Guayaquil",
+    "precio": 12.00,
+    "fecha_creacion": "2024-08-07 10:28:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_030": {
+    "id": "ruta_030",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Cuenca",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 10:29:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_031": {
+    "id": "ruta_031",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Machala",
+    "precio": 4.50,
+    "fecha_creacion": "2024-08-07 10:30:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_032": {
+    "id": "ruta_032",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Riobamba",
+    "precio": 15.00,
+    "fecha_creacion": "2024-08-07 10:31:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_033": {
+    "id": "ruta_033",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Ambato",
+    "precio": 16.50,
+    "fecha_creacion": "2024-08-07 10:32:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_034": {
+    "id": "ruta_034",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Puyo",
+    "precio": 25.00,
+    "fecha_creacion": "2024-08-07 10:33:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_035": {
+    "id": "ruta_035",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Macas",
+    "precio": 18.00,
+    "fecha_creacion": "2024-08-07 10:34:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_036": {
+    "id": "ruta_036",
+    "cooperativa_id": "coop_003",
+    "origen": "Loja",
+    "destino": "Ibarra",
+    "precio": 23.50,
+    "fecha_creacion": "2024-08-07 10:35:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_037": {
+    "id": "ruta_037",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Quito",
+    "precio": 15.50,
+    "fecha_creacion": "2024-08-07 10:36:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_038": {
+    "id": "ruta_038",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Guayaquil",
+    "precio": 8.00,
+    "fecha_creacion": "2024-08-07 10:37:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_039": {
+    "id": "ruta_039",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Loja",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 10:38:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_040": {
+    "id": "ruta_040",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Riobamba",
+    "precio": 8.00,
+    "fecha_creacion": "2024-08-07 10:39:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_041": {
+    "id": "ruta_041",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Ambato",
+    "precio": 10.00,
+    "fecha_creacion": "2024-08-07 10:40:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_042": {
+    "id": "ruta_042",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Machala",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 10:41:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_043": {
+    "id": "ruta_043",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Manta",
+    "precio": 14.50,
+    "fecha_creacion": "2024-08-07 10:42:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_044": {
+    "id": "ruta_044",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Portoviejo",
+    "precio": 13.50,
+    "fecha_creacion": "2024-08-07 10:43:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_045": {
+    "id": "ruta_045",
+    "cooperativa_id": "coop_015",
+    "origen": "Cuenca",
+    "destino": "Ibarra",
+    "precio": 18.00,
+    "fecha_creacion": "2024-08-07 10:44:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_046": {
+    "id": "ruta_046",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Quito",
+    "precio": 4.00,
+    "fecha_creacion": "2024-08-07 10:45:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_047": {
+    "id": "ruta_047",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Guayaquil",
+    "precio": 7.00,
+    "fecha_creacion": "2024-08-07 10:46:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_048": {
+    "id": "ruta_048",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Ambato",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 10:47:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_049": {
+    "id": "ruta_049",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Manta",
+    "precio": 6.50,
+    "fecha_creacion": "2024-08-07 10:48:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_050": {
+    "id": "ruta_050",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Portoviejo",
+    "precio": 6.00,
+    "fecha_creacion": "2024-08-07 10:49:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_051": {
+    "id": "ruta_051",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Machala",
+    "precio": 10.00,
+    "fecha_creacion": "2024-08-07 10:50:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_052": {
+    "id": "ruta_052",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Ibarra",
+    "precio": 5.50,
+    "fecha_creacion": "2024-08-07 10:51:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_053": {
+    "id": "ruta_053",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Riobamba",
+    "precio": 7.00,
+    "fecha_creacion": "2024-08-07 10:52:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_054": {
+    "id": "ruta_054",
+    "cooperativa_id": "coop_008",
+    "origen": "Santo Domingo",
+    "destino": "Latacunga",
+    "precio": 4.50,
+    "fecha_creacion": "2024-08-07 10:53:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_055": {
+    "id": "ruta_055",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Quito",
+    "precio": 9.75,
+    "fecha_creacion": "2024-08-07 10:54:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_056": {
+    "id": "ruta_056",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Guayaquil",
+    "precio": 5.50,
+    "fecha_creacion": "2024-08-07 10:55:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_057": {
+    "id": "ruta_057",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Cuenca",
+    "precio": 13.50,
+    "fecha_creacion": "2024-08-07 10:56:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_058": {
+    "id": "ruta_058",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Ambato",
+    "precio": 9.00,
+    "fecha_creacion": "2024-08-07 10:57:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_059": {
+    "id": "ruta_059",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Riobamba",
+    "precio": 11.00,
+    "fecha_creacion": "2024-08-07 10:58:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_060": {
+    "id": "ruta_060",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Ibarra",
+    "precio": 12.00,
+    "fecha_creacion": "2024-08-07 10:59:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_061": {
+    "id": "ruta_061",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Machala",
+    "precio": 8.50,
+    "fecha_creacion": "2024-08-07 11:00:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_062": {
+    "id": "ruta_062",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Santo Domingo",
+    "precio": 6.00,
+    "fecha_creacion": "2024-08-07 11:01:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_063": {
+    "id": "ruta_063",
+    "cooperativa_id": "coop_006",
+    "origen": "Portoviejo",
+    "destino": "Latacunga",
+    "precio": 8.50,
+    "fecha_creacion": "2024-08-07 11:02:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_064": {
+    "id": "ruta_064",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Quito",
+    "precio": 10.50,
+    "fecha_creacion": "2024-08-07 11:03:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_065": {
+    "id": "ruta_065",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Guayaquil",
+    "precio": 6.00,
+    "fecha_creacion": "2024-08-07 11:04:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_066": {
+    "id": "ruta_066",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Cuenca",
+    "precio": 14.50,
+    "fecha_creacion": "2024-08-07 11:05:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_067": {
+    "id": "ruta_067",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Ambato",
+    "precio": 9.50,
+    "fecha_creacion": "2024-08-07 11:06:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_068": {
+    "id": "ruta_068",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Riobamba",
+    "precio": 11.50,
+    "fecha_creacion": "2024-08-07 11:07:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_069": {
+    "id": "ruta_069",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Portoviejo",
+    "precio": 1.00,
+    "fecha_creacion": "2024-08-07 11:08:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_070": {
+    "id": "ruta_070",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Machala",
+    "precio": 10.00,
+    "fecha_creacion": "2024-08-07 11:09:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_071": {
+    "id": "ruta_071",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Santo Domingo",
+    "precio": 6.50,
+    "fecha_creacion": "2024-08-07 11:10:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_072": {
+    "id": "ruta_072",
+    "cooperativa_id": "coop_014",
+    "origen": "Manta",
+    "destino": "Ibarra",
+    "precio": 13.00,
+    "fecha_creacion": "2024-08-07 11:11:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_073": {
+    "id": "ruta_073",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Quito",
+    "precio": 5.00,
+    "fecha_creacion": "2024-08-07 11:12:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_074": {
+    "id": "ruta_074",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Guayaquil",
+    "precio": 7.00,
+    "fecha_creacion": "2024-08-07 11:13:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_075": {
+    "id": "ruta_075",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Cuenca",
+    "precio": 8.00,
+    "fecha_creacion": "2024-08-07 11:14:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_076": {
+    "id": "ruta_076",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Ambato",
+    "precio": 1.50,
+    "fecha_creacion": "2024-08-07 11:15:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_077": {
+    "id": "ruta_077",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Machala",
+    "precio": 11.00,
+    "fecha_creacion": "2024-08-07 11:16:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_078": {
+    "id": "ruta_078",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Manta",
+    "precio": 11.50,
+    "fecha_creacion": "2024-08-07 11:17:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_079": {
+    "id": "ruta_079",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Portoviejo",
+    "precio": 11.00,
+    "fecha_creacion": "2024-08-07 11:18:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_080": {
+    "id": "ruta_080",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Loja",
+    "precio": 15.00,
+    "fecha_creacion": "2024-08-07 11:19:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_081": {
+    "id": "ruta_081",
+    "cooperativa_id": "coop_012",
+    "origen": "Riobamba",
+    "destino": "Puyo",
+    "precio": 4.00,
+    "fecha_creacion": "2024-08-07 11:20:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_082": {
+    "id": "ruta_082",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Quito",
+    "precio": 9.75,
+    "fecha_creacion": "2024-08-07 11:21:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_083": {
+    "id": "ruta_083",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Guayaquil",
+    "precio": 5.50,
+    "fecha_creacion": "2024-08-07 11:22:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_084": {
+    "id": "ruta_084",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Cuenca",
+    "precio": 13.50,
+    "fecha_creacion": "2024-08-07 11:23:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_085": {
+    "id": "ruta_085",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Machala",
+    "precio": 13.25,
+    "fecha_creacion": "2024-08-07 11:24:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_086": {
+    "id": "ruta_086",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Santo Domingo",
+    "precio": 7.25,
+    "fecha_creacion": "2024-08-07 11:25:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_087": {
+    "id": "ruta_087",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Manta",
+    "precio": 3.00,
+    "fecha_creacion": "2024-08-07 11:26:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_088": {
+    "id": "ruta_088",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Ambato",
+    "precio": 9.00,
+    "fecha_creacion": "2024-08-07 11:27:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_089": {
+    "id": "ruta_089",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Ibarra",
+    "precio": 12.00,
+    "fecha_creacion": "2024-08-07 11:28:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  },
+  "ruta_090": {
+    "id": "ruta_090",
+    "cooperativa_id": "coop_011",
+    "origen": "Portoviejo",
+    "destino": "Riobamba",
+    "precio": 11.00,
+    "fecha_creacion": "2024-08-07 11:29:00",
+    "creado_por": "sistema",
+    "estado": "activa"
+  }
+}

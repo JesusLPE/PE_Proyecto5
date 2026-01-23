@@ -1,0 +1,29 @@
+{
+  "DDD": {
+    "contraseña": "123456",
+    "cedula": "1234567890",
+    "nombre_completo": "Diocles",
+    "telefono": "1234567890",
+    "email": "d1234566@gmail.com",
+    "fecha_registro": "2025-10-16 23:04:55",
+    "tipo": "usuario"
+  },
+  "Jesus": {
+    "contraseña": "101010",
+    "cedula": "1314210160",
+    "nombre_completo": "Jesus Leonel Palma Perez",
+    "telefono": "0987881127",
+    "email": "troll123@gmail.com",
+    "fecha_registro": "2025-10-22 13:04:24",
+    "tipo": "usuario"
+  },
+  "Erazo": {
+    "contraseña": "123456",
+    "cedula": "1314256131",
+    "nombre_completo": "Erazo Zambrano Alexander Javier",
+    "telefono": "1234567890",
+    "email": "erazo123312@gmail.com",
+    "fecha_registro": "2026-01-23 00:41:58",
+    "tipo": "usuario"
+  }
+}
